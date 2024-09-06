@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Product Management
+description: Stories related to Product Management
 image:
 
 # Badge style
